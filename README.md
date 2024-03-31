@@ -4,5 +4,7 @@
 <br></br>
 Design de uma tela de Login/Tela de Cadastro de Usuário
 
+<img src="prototipo.png">
+
 (Descrição da funcionalidade do site)
 
