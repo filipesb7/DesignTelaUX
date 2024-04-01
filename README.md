@@ -6,5 +6,5 @@ Design de uma tela de Login/Tela de Cadastro de Usuário
 
 <img src="prototipo.png">
 
-(Descrição da funcionalidade do site)
+Um site de compras de roupas, calçados e acessórios.Tendo a opção do carrinho, para adicionar seus itens favoritos.
 
